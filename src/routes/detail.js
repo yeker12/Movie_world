@@ -20,7 +20,7 @@ function Detail () {
         <div className="body_detail">
             <header>
             <h1>Best Movie World</h1>
-            <div>
+            <div className="middle_title">
             <h3>
             An ever growing movie collection featuring some of the best scenes
             </h3>
