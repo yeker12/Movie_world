@@ -18,20 +18,20 @@ function Home () {
         <div>
           <header>
             <h1>Best Movie World</h1>
-            <div>
-            <h3>
-            An ever growing movie collection featuring some of the best scenes
-            </h3>
-            <p>
-            “Best Movie world” is a collection of scenes are some of the most affecting in many movies. A lot of people have rated their favorite movies, and we are introducing movies with high ratings. Find a variety of movies that may interest you here.
-            </p>
-            <nav>
-              <ul>
-                <li>yeker</li>
-                <li>https://github.com/yeker12</li>
-                <li>yeker12@naver.com</li>
-              </ul>
-            </nav>
+            <div className="middle_title">
+              <h3>
+              An ever growing movie collection featuring some of the best scenes
+              </h3>
+              <p>
+              “Best Movie world” is a collection of scenes are some of the most affecting in many movies. A lot of people have rated their favorite movies, and we are introducing movies with high ratings. Find a variety of movies that may interest you here.
+              </p>
+              <nav>
+                <ul>
+                  <li>yeker</li>
+                  <li>https://github.com/yeker12</li>
+                  <li>yeker12@naver.com</li>
+                </ul>
+              </nav>
             </div>
           </header>
           <main>
