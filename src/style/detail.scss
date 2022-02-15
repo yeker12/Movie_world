@@ -23,6 +23,7 @@
         .movieContent{
             
             background-color: $myGreen;
+            width: 90%;
             margin-bottom: 100px;
             display: flex;
             justify-content: center;
@@ -303,6 +304,7 @@
         
         background-color: $myGreen;
         margin-bottom: 100px;
+        text-align: center;
         display: flex;
         justify-content: center;
         
@@ -317,6 +319,7 @@
             flex-direction: column;
             background-color: $myGrey;
             align-items: center;
+            justify-content: center;
 
             .movie_title{
                 font-family:Verdana, Geneva, Tahoma, sans-serif;
